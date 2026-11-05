@@ -3,3 +3,4 @@ name = "sogedge-nhl-api"
 main = "src/index.js"
 compatibility_date = "2026-11-04"
 workers_dev = true
+# Trigger Cloudflare deployment
